@@ -1,36 +1,45 @@
 {
-    "name": "midterm-practice-5",
-    "version": "0.0.0",
-    "private": true,
-    "scripts": {
-        "start": "node server.js"
-    },
-
-    "engines": {
-        "node": "^11.9.4",
-        "npm": "^6.0.0"
-    },
-    "dependencies": {
-        "bootstrap": "^4.3.1",
-        "cookie-parser": "~1.4.3",
-        "debug": "~2.6.9",
-        "ejs": "~2.5.7",
-        "express": "~4.16.0",
-        "font-awesome": "^4.7.0",
-        "http-errors": "~1.6.2",
-        "jquery": "^3.3.1",
-        "morgan": "~1.9.0",
-        "popper.js": "^1.14.7"
-    },
-    "description": "Express Generator Demo",
-    "main": "server.js",
-    "author": "Bal Dhakal",
-    "license": "ISC",
-    "devDependencies": {
-        "@types/body-parser": "^1.17.0",
-        "@types/cookie-parser": "^1.4.1",
-        "@types/express": "^4.16.1",
-        "@types/morgan": "^1.7.35",
-        "@types/node": "^11.9.4"
-    }
+  "name": "midterm-practice-6",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "^11.9.4",
+    "npm": "^6.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "font-awesome": "^4.7.0",
+    "http-errors": "~1.6.2",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.4.14",
+    "morgan": "~1.9.0",
+    "popper.js": "^1.14.7"
+  },
+  "description": "Mongo and Mongoose Demo",
+  "main": "server.js",
+  "author": "Bal Dhakal",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/body-parser": "^1.17.0",
+    "@types/cookie-parser": "^1.4.1",
+    "@types/express": "^4.16.1",
+    "@types/mongoose": "^5.3.18",
+    "@types/morgan": "^1.7.35",
+    "@types/node": "^11.9.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalKrishnaDhakal/Midterm-Practice-6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BalKrishnaDhakal/Midterm-Practice-6/issues"
+  },
+  "homepage": "https://github.com/BalKrishnaDhakal/Midterm-Practice-6#readme"
 }
